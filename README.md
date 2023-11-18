@@ -1,3 +1,3 @@
 # CVPR24
 
-This is our anonymous for showing our results for CVPR$1437
+This is our anonymous repositorY for showing results of CVPR#1437
