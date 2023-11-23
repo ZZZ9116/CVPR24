@@ -6,6 +6,12 @@ Our qualitative experimental results:
 
 **Result 1**
 
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="./cg_au.mp4" type="video/mp4">
+ </video>
+</figure>
+
 https://github.com/ZZZ9116/CVPR24/assets/75349899/7b8c7053-bb17-44fa-89b7-574deb549b56
 
 **Result 2**
